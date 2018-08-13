@@ -1,0 +1,27 @@
+{
+  "name": "allex_dboperationsawarehotellib",
+  "version": "1.0.0",
+  "description": "AllexJS lib with mixins for a hotel that should interact with a DBOperations Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "allex-mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-libs/dboperationsawarehotel.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "dboperations",
+    "aware",
+    "hotel",
+    "mixins",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-libs/dboperationsawarehotel/issues"
+  },
+  "homepage": "https://github.com/allex-libs/dboperationsawarehotel#readme"
+}
