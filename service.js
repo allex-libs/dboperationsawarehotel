@@ -6,6 +6,7 @@ function createServiceMixin (execlib) {
   function DBOperationsAwareServiceMixin (prophash) {
     this.findRemote(this.clusterDependentRemotePath(prophash.dboperationsname || 'DBOperations'));
   }
+  DBOperationsAwareServiceMixin.prototype.destroy = lib.dummyFunc;
 
   DBOperationsAwareServiceMixin.addMethods = function (klass) {
   };

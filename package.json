@@ -1,6 +1,6 @@
 {
   "name": "allex_dboperationsawarehotellib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AllexJS lib with mixins for a hotel that should interact with a DBOperations Service",
   "main": "index.js",
   "scripts": {
